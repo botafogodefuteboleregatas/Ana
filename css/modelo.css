@@ -1,0 +1,64 @@
+/* Estilos gerais do corpo */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    color: #333;
+ }
+
+ /* Cabeçalho com fundo e texto centralizado */
+ #cabecalho {
+    background-color: #0077cc;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    border-width: 2px;
+      border-style: solid;
+      border-color: #ffa500;
+ }
+
+ /* Estilo da seção principal */
+ .container {
+    max-width: 800px;
+    margin: 30px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ }
+
+ /* Destaque para títulos dentro da seção */
+ .titulo {
+    color: #0077cc;
+    font-size: 28px;
+    margin-bottom: 10px;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ /* Estilo para parágrafos */
+ p {
+    line-height: 1.6;
+    font-size: 16px;
+ }
+
+ /* Rodapé com cor cinza */
+ #rodape {
+    color: #666;
+    background-color: #eee;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+    margin-top: 40px;
+    border-top: 1px;
+    border-style: dashed;
+    border-color: #999;
+ }
+
+ #contato {
+   background-color: #E0FFFF;
+   padding: 15px;
+   margin-top: 20px;
+ }
+
